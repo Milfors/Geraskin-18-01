@@ -1,4 +1,4 @@
-<div class="container">
+ <div class="container">
   <div class="flipper" id="target">
     <div class="front">
       <a href="#target" class="home button">Обо мне </a>
@@ -9,12 +9,13 @@
         <a href=""><i class="fa fa-youtube"></i></a>
         <a href=""><i class="fa fa-linkedin"></i></a>
       </div>
-      
-      
-   
-      <h3 style="color: white">Всем привет! Меня зовут Данила, я учусь в МГТУ Станкин на 3 курсе, навравлении "Информатика и вычислительная техника". У меня большие планы на будущее <h3>      
+
+
+
+
+      <h3  style="color: white">Всем привет! Меня зовут Данила, я учусь в МГТУ Станкин на 3 курсе, навравлении "Информатика и вычислительная техника". У меня большие планы на будущее - я хочу стать великим программистом! <h3>      
       <img src="http://kinootziv.com/thumb.php?src=/source/files/artists_photos/chri/christianbale913201.jpg" width="57" vspace="1" />
-      
+ 
       </div>
     <div class="back">
       <a href="#close" class="close button"><i class="fa fa-home"></i></a>
